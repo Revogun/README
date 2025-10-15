@@ -1,5 +1,3 @@
-<!-- Profile README for Revogun -->
-
 <h1 align="center">Hi, I'm Revogun S 👋</h1>
 <p align="center">
   <b>Aspiring Software Developer | Java Full Stack | Innovator</b>
