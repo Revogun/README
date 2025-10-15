@@ -20,8 +20,8 @@ I'm Revogun S from Madurai, India, currently pursuing a B.E. in Computer Science
 
 ## 🏆 Achievements
 
-- 🥇 **Won ₹100,000 cash prize** at Pixel Pioneers 2025 Ideathon
-- 🥈 **Secured ₹75,000 second prize** at Shrii Shakthi Hackathon
+- 🥇 **Won ₹1000 cash prize** at Pixel Pioneers 2025 Ideathon
+- 🥈 **Secured ₹750 second prize** at Shrii Shakthi Hackathon
 - 🏅 **TNSTC Digital Pass System with AI Assistant** – 2 National Awards, Copyright Registered
 
 ---
